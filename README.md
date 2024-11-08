@@ -6,3 +6,4 @@ Logic:
 - Compare the user's choice to the computer's choice.
 - Determine the winner.
 
+- Add a feature: Keep Score.
